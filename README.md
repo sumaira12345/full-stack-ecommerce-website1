@@ -1,5 +1,5 @@
 # 🛍️ TEMU Clone | Modern E-Commerce Platform
-![TEMU Clone Thumbnail](/assets/thumbnail.jpg)
+[<img src="assets/thumbnail.jpg">](https://www.youtube.com/watch?v=-_-kvPiMybw)
 
 A full-stack e-commerce platform built with NextJS 15 and React 19, inspired by TEMU's design. This project demonstrates modern web development practices and an end-to-end e-commerce experience.
 
