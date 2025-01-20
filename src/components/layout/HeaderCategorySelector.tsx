@@ -1,4 +1,4 @@
-import { getAllCategories } from '@/sanity/lib/client';
+import { getAllCategories } from "@/sanity/lib/client"
 import Link from 'next/link';
 import React from 'react'
 
